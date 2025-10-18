@@ -1,0 +1,11 @@
+1. Conducted a complete 2-day hands-on program focused on real bug bounty workflows.
+
+2. Enabled participants to identify and exploit OWASP vulnerabilities like SQLi, XSS, and RCE.
+
+3. Introduced key reconnaissance and fuzzing tools for professional bug hunting.
+
+4. Helped students build verified Proof of Concepts (PoCs) and security reports.
+
+5. Encouraged ethical hacking practices and responsible disclosure culture.
+
+6. Empowered beginners to transition confidently into intermediate-level bug bounty testing.
